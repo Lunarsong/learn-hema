@@ -22,7 +22,7 @@ title: Horizontal Cut / Mittelhau
       <p>The Middle or Traversing Strike can execute most effects the Wrathful Strike can, the difference is only that while the Wrathful Strike is a forceful high point, the Diagonal Traverse is brought full on. How the upper lines are traversed is shown in both illustration C (background) and illustration G (background). Such lines are also applicable to Dusack.
       </p>
 
-      <img style="width:400px;" class="card-image" src="/manuals/meyer/images/strikes/cutting_diagram_mittelhau.png">
+      <p><img style="width:400px;" class="card-image" src="/manuals/meyer/images/strikes/cutting_diagram_mittelhau.png"></p>
 
       <img class="card-image" src="/manuals/meyer/images/Meyer_1570_Longsword_C.jpg">
 
