@@ -49,7 +49,7 @@
   </style>
     <iron-selector selected="[[page]]" attr-for-selected="name" class="drawer-list" role="navigation">
       <paper-menu attr-for-item-title="label" multi>
-        {% assign groups = site.pages | where: "manual", "Meyer" | group_by: "category" | sort: "title" %}
+        {% assign groups = site.pages | where: "manual", "Meyer" | group_by: "category" | sort: "name" %}
         {% for group in groups %}
         <paper-submenu>
           <paper-item class="menu-trigger">{{ group.name }}</paper-item>
