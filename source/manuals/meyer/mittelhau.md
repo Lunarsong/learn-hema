@@ -1,5 +1,5 @@
 ---
-category: 'Strikes'
+category: 'Strikes - Chief / Principal'
 manual: 'Meyer'
 title: Horizontal Cut / Mittelhau
 ---

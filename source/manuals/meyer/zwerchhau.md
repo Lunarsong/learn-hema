@@ -1,5 +1,5 @@
 ---
-category: 'Strikes'
+category: 'Strikes - Master'
 manual: 'Meyer'
 title: Thwart / Zwerch
 ---

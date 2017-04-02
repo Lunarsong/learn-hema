@@ -1,5 +1,5 @@
 ---
-category: 'Strikes'
+category: 'Strikes - Chief / Principal'
 manual: 'Meyer'
 title: Wrath Cut / Zornhau
 ---
