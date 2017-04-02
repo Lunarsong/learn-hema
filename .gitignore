@@ -1,0 +1,9 @@
+# Ignore the generated public files.
+public
+
+# Jekyll generated stuff.
+.sass-cache
+
+# OSX stuff
+.DS_Store
+
