@@ -19,7 +19,7 @@ title: Change Cut / Wechselhau
 
     <div class="card">
       <h1>{{ page.title }}</h1>
-      <p></p>
+      <blockquote><p>The Change Cut is simply to change off before your opponent with your cuts, from one side to another, from above to below, and vice versa, in order to confuse him.</p></blockquote>
 
     </div>
   </template>

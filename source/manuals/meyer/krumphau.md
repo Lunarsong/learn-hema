@@ -19,7 +19,7 @@ title: Crooked Cut / Krumphau
 
     <div class="card">
       <h1>{{ page.title }}</h1>
-      <p></p>
+      <blockquote><p></p></blockquote>
 
     </div>
   </template>
