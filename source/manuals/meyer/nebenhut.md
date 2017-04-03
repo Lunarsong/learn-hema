@@ -23,9 +23,9 @@ title: Side Guard / Nebenhut
       <h1>{{ page.title }}</h1>
       <blockquote><p>In this guard, position yourself thus: stand with your left foot forward, hold your sword by your right side, with the point toward the ground, so that the pommel stands upwards, and the short edge toward you.</p></blockquote>
 
-      <p>This guard is not illustrated however it may be very similar to Fiore's Boar's Tooth.</p>
+      <p>This guard is not illustrated however it may be very similar to Fiore's Tail guard.</p>
 
-      <img class="card-image" src="/manuals/meyer/images/guards/fiore-boars-tooth-illustration.png">
+      <img class="card-image" src="/manuals/meyer/images/guards/fiore-tail-illustration.png">
 
     </div>
   </template>
