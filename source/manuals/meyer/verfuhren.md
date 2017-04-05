@@ -28,7 +28,7 @@ title: Deceiving / Verführen
 
       <p>Various techniques fall under the category of deceiving, such as the <a href="krumphau">Squinting Cut</a> with the face, <a href="fehlen">failing</a>, <a href="verfliegen">flitting</a>, deceitful glancing, <a href="ablauffen">running off</a>, <a href="zucken">pulling</a> and the <a href="zirckel">Circle</a>, and others.</p>
 
-      <p>Various deceptions not only with the sword but also with the body arise here. Thus there are as many versions of this as there are types and qualities of fighters, for it depends entirely on everyone's character and custom in combat: as one fights wrathfully, another circumspectly<, this one swift and fast, that one slowly, so also deceiving takes like form and is so carried out in the work./p></blockquote>
+      <p>Various deceptions not only with the sword but also with the body arise here. Thus there are as many versions of this as there are types and qualities of fighters, for it depends entirely on everyone's character and custom in combat: as one fights wrathfully, another circumspectly<, this one swift and fast, that one slowly, so also deceiving takes like form and is so carried out in the work.</p></blockquote>
 
     </div>
   </template>
