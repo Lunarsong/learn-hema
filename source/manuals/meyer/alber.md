@@ -21,7 +21,7 @@ title: Fool / Alber
     <div class="card">
 
       <h1>{{ page.title }}</h1>
-      <blockquote><p>Stand with your left foot forward and hold your sword with the point extended toward the ground in front of you before your forward foot, sucuh that the short edge lies above and the long edge below.</p></blockquote>
+      <blockquote><p>Stand with your left foot forward and hold your sword with the point extended toward the ground in front of you before your forward foot, such that the short edge lies above and the long edge below.</p></blockquote>
 
       <img class="card-image" src="/manuals/meyer/images/guards/alber-illustration.jpg">
 
