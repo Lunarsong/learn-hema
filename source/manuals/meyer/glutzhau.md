@@ -1,7 +1,7 @@
 ---
 category: 'Strikes - Secondary'
 manual: 'Meyer'
-title: Clashing Cut / Glützhauw
+title: Clashing Cut / Glützhau
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">
@@ -19,7 +19,7 @@ title: Clashing Cut / Glützhauw
 
     <div class="card">
       <h1>{{ page.title }}</h1>
-      <blockquote><p></p></blockquote>
+      <blockquote><p>The Clashing Cut is done thus: if someone cuts at you from above, then strike with the back of your hand against his stroke to the upper left opening; let your blade slip off on his blade with the outside flat so that in the impetus, the short edge hits his head, palm away from him.</p></blockquote>
 
     </div>
   </template>
