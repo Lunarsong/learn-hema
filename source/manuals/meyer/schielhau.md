@@ -1,5 +1,5 @@
 ---
-category: 'Strikes - Master'
+category: '2. Strikes - Master'
 manual: 'Meyer'
 title: Squinting Cut / Schielhau
 ---

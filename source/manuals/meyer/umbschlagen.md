@@ -1,7 +1,8 @@
 ---
-category: '2. Strikes - Secondary'
+category: '3. Handwork'
 manual: 'Meyer'
-title: Flick [Schneller] or Tag-Hit [Zeckrur]
+layout: page
+title: Striking Around / Umbschlagen
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">
@@ -18,8 +19,12 @@ title: Flick [Schneller] or Tag-Hit [Zeckrur]
     </style>
 
     <div class="card">
+
       <h1>{{ page.title }}</h1>
-      <blockquote><p>The flick or Tag-Hit is not actually delivered as a cut, but is rather flicked; it is executed in the middle of combat when one has occasion, namely when you make your weapon snap at your opponent from above or from either side or from below with the flat or foible of the blade, or flick it in an arc over or under his blade.</p></blockquote>
+
+
+      <p>Transcription:</p>
+      <blockquote><p>It is called striking around with the sword when, having bound from your right against their left, you go back out of that bind and strike around or flick to the other side.</p></blockquote>
 
     </div>
   </template>

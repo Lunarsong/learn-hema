@@ -1,5 +1,5 @@
 ---
-category: 'Strikes - Secondary'
+category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Crown Cut / Kronhau
 ---

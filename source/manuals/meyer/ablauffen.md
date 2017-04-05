@@ -1,7 +1,8 @@
 ---
-category: '2. Strikes - Secondary'
+category: '3. Handwork'
 manual: 'Meyer'
-title: Flick [Schneller] or Tag-Hit [Zeckrur]
+layout: page
+title: Running Off / Ablauffen
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">
@@ -18,8 +19,12 @@ title: Flick [Schneller] or Tag-Hit [Zeckrur]
     </style>
 
     <div class="card">
+
       <h1>{{ page.title }}</h1>
-      <blockquote><p>The flick or Tag-Hit is not actually delivered as a cut, but is rather flicked; it is executed in the middle of combat when one has occasion, namely when you make your weapon snap at your opponent from above or from either side or from below with the flat or foible of the blade, or flick it in an arc over or under his blade.</p></blockquote>
+
+
+      <p>Transcription:</p>
+      <blockquote><p>This is, from whichever side you bind your opponent's sword, then reverse your hands as soon as it touches and let it run off with the short edge down, and meanwhile pull your hilt up in the air for a stroke; and do this on both sides.</p></blockquote>
 
     </div>
   </template>

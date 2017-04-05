@@ -1,5 +1,5 @@
 ---
-category: 'Guards - Secondary'
+category: '1. Guards - Secondary'
 manual: 'Meyer'
 layout: page
 title: Changer / Wechsel

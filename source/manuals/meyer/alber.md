@@ -1,5 +1,5 @@
 ---
-category: 'Guards - Core'
+category: '1. Guards - Core'
 manual: 'Meyer'
 layout: page
 title: Fool / Alber

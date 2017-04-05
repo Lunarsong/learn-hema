@@ -1,5 +1,5 @@
 ---
-category: 'Strikes - Chief / Principal'
+category: '2. Strikes - Chief / Principal'
 manual: 'Meyer'
 title: Low Cut / Unterhau
 ---
