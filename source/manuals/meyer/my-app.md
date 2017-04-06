@@ -74,8 +74,10 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <app-drawer-layout fullbleed>
       <!-- Drawer content -->
       <app-drawer id="drawer">
-        <app-toolbar>Menu</app-toolbar>
-        <navigation-bar></navigation-bar>
+        <div style="height: 100%; overflow: auto;">
+          <app-toolbar>Menu</app-toolbar>
+          <navigation-bar></navigation-bar>
+        </div>
       </app-drawer>
 
       <!-- Main content -->
