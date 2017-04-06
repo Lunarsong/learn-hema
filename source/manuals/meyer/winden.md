@@ -2,7 +2,7 @@
 category: '3. Handwork'
 manual: 'Meyer'
 layout: page
-title: Pulling / Zucken
+title: Winding / Winden
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">
