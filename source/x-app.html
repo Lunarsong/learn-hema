@@ -5,6 +5,7 @@
 
 <link rel="import" href="/bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="/bower_components/paper-search/paper-search-bar.html">
+<link rel="import" href="/bower_components/paper-button/paper-button.html">
 
 <link rel="import" href="/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
 <link rel="import" href="/bower_components/app-layout/app-header/app-header.html">
@@ -23,6 +24,12 @@
         text-decoration: none;
         font-size: inherit;
         color: inherit;
+      }
+
+      a paper-button,
+      a:active paper-button,
+      a:visited paper-button {
+        color: var(--paper-blue-a200);
       }
 
       .toolbar {
@@ -128,8 +135,8 @@
           </div>
           <div>
             <h3>Manuals</h3>
-            <p>Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit elit oportere ea. Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit elit oportere ea.</p>
-            <p>Convenire definiebas scriptorem eu cum. Sit dolor dicunt consectetuer no. Convenire definiebas scriptorem eu cum. Sit dolor dicunt consectetuer no.</p>
+            <p>For the time being the only manual available on the site is Joachim Meÿer's Longsword. The next to be added will be a gloss of Johannes Liechtenauer's zettel.</p>
+            <a href="manuals/meyer/"><paper-button>READ Joachim Meyer's Longsword</paper-button></a>
           </div>
         </div>
       </section>
@@ -141,8 +148,8 @@
           </div>
           <div>
             <h3>Drills</h3>
-            <p>Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit elit oportere ea. Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit elit oportere ea.</p>
-            <p>Convenire definiebas scriptorem eu cum. Sit dolor dicunt consectetuer no. Convenire definiebas scriptorem eu cum. Sit dolor dicunt consectetuer no.</p>
+            <p>Drills page coming soon! For now, enjoy this Meyer Square blog post.</p>
+            <a href="https://shanee.io/blog/2017/01/03/longsword-solo-drills-meyer-square/"><paper-button>Meyer Square Drills</paper-button></a>
           </div>
         </div>
       </section>
@@ -154,8 +161,9 @@
           </div>
           <div>
             <h3>About</h3>
-            <p>Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit elit oportere ea. Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit elit oportere ea.</p>
-            <p>Convenire definiebas scriptorem eu cum. Sit dolor dicunt consectetuer no. Convenire definiebas scriptorem eu cum. Sit dolor dicunt consectetuer no.</p>
+            <p>This is an open source resource for the study of Historical European Martial Arts.</p>
+            <p>You are welcome to make contributions and request for resources on the GitHub project.</p>
+            <a href="https://github.com/Lunarsong/learn-hema"><paper-button>GitHub Project</paper-button></a>
           </div>
         </div>
       </section>
