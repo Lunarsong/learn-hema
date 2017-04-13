@@ -38,7 +38,7 @@ title: Ox / Ochs
       <blockquote>The first guard is called the Ox, position yourself thus with it: stand with your left foot before and hold your sword near your right side, with the hilt before your head so that your thumb is under the sword, and hang the point in against his face.</blockquote></p>
 
       <p><strong>Sigmund ain Ringeck</strong>
-      <blockquote>The first guard is called the Ox; arrange yourself thusly: Stand with the left foot forwards and hold your sword near your right side with the hilt in front of your head, and let the point hang against the face (as stands pictured next to this).</blockquote></p>
+      <blockquote>The first guard is called the Ox; arrange yourself thusly: Stand with the left foot forwards and hold your sword near your right side with the hilt in front of your head, and let the point hang against the face.</blockquote></p>
 
       <p><strong>Jud Lew</strong>
       <blockquote>Position yourself in the Ox thus: stand with the left foot in front and hold your sword on your right side with the hilt in front of the head, so that the short edge stands against you, and hold the point thus against the face. Position yourself on the left side in the Ox thus: stand with the right foot before and hold your sword on your left side with the hilt in front of the head, so that the long edge stands against you, and hold the point thus against his face.</blockquote></p>
