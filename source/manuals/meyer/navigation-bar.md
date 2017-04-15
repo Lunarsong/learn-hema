@@ -52,8 +52,9 @@
         {% assign groups = site.pages | where: "manual", "Meyer" | group_by: "category" | sort: "name" %}
         {% for group in groups %}
         {% assign items = group.items | sort: "order" %}
+        {% assign category_name = group.name | split: '. ' %}
         <paper-submenu>
-          <paper-item class="menu-trigger">{{ group.name }}</paper-item>
+          <paper-item class="menu-trigger">{{ category_name[1] }}</paper-item>
           <paper-menu class="menu-content sublist">
           {% for item in items %}
             <a class="paper-item-link" href="{{ item.url | remove: '.html' }}" tabindex="-1">
