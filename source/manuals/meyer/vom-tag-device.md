@@ -3,6 +3,7 @@ category: '4. Devices / Stücke'
 manual: 'Meyer'
 layout: page
 title: Day / Vom Tag
+order: 1
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

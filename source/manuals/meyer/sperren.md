@@ -3,6 +3,7 @@ category: '3. Handwork'
 manual: 'Meyer'
 layout: page
 title: Barring / Sperren
+order: 25
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

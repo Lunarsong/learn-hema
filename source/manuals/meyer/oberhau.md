@@ -2,6 +2,7 @@
 category: '2. Strikes - Chief / Principal'
 manual: 'Meyer'
 title: High Cut / Oberhau
+order: 1
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

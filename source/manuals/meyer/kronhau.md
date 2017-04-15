@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Crown Cut / Kronhau
+order: 6
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

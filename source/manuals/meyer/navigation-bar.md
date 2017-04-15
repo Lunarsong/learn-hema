@@ -51,10 +51,11 @@
       <paper-menu attr-for-item-title="label" multi>
         {% assign groups = site.pages | where: "manual", "Meyer" | group_by: "category" | sort: "name" %}
         {% for group in groups %}
+        {% assign items = group.items | sort: "order" %}
         <paper-submenu>
           <paper-item class="menu-trigger">{{ group.name }}</paper-item>
           <paper-menu class="menu-content sublist">
-          {% for item in group.items %}
+          {% for item in items %}
             <a class="paper-item-link" href="{{ item.url | remove: '.html' }}" tabindex="-1">
               <paper-item>{{item.title}}</paper-item>
             </a>

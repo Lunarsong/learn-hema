@@ -3,6 +3,7 @@ category: '1. Guards - Core'
 manual: 'Meyer'
 layout: page
 title: Day / Vom Tag
+order: 3
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

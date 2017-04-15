@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Rebound Cut / Prellhau
+order: 3
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

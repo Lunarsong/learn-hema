@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Clashing Cut / Glützhau
+order: 2
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

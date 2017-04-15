@@ -3,6 +3,7 @@ category: '1. Guards - Core'
 manual: 'Meyer'
 layout: page
 title: Ox / Ochs
+order: 1
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

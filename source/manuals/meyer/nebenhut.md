@@ -3,6 +3,7 @@ category: '1. Guards - Secondary'
 manual: 'Meyer'
 layout: page
 title: Side Guard / Nebenhut
+order: 4
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

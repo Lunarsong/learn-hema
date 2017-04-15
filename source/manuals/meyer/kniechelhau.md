@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Wrist Cut / Kniechelhau
+order: 7
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

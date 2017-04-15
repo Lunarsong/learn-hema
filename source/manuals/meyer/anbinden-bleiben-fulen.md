@@ -3,6 +3,7 @@ category: '3. Handwork'
 manual: 'Meyer'
 layout: page
 title: Binding / Remaining / Feeling - Anbinden / Bleiben / Fulen
+order: 2
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

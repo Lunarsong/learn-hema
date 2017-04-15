@@ -3,6 +3,7 @@ category: '4. Devices / Stücke'
 manual: 'Meyer'
 layout: page
 title: Middle Guard / Mittlehut
+order: 9
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

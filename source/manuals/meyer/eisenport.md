@@ -3,6 +3,7 @@ category: '1. Guards - Secondary'
 manual: 'Meyer'
 layout: page
 title: Irongate / Eisenport
+order: 5
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Plunge Cut / Sturtzhau
+order: 8
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

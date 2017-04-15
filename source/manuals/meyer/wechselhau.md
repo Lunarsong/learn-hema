@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Change Cut / Wechselhau
+order: 9
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

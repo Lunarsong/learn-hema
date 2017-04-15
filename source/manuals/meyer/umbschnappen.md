@@ -3,6 +3,7 @@ category: '3. Handwork'
 manual: 'Meyer'
 layout: page
 title: Snapping Around / Umbschnappen
+order: 13
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

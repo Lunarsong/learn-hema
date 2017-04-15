@@ -2,6 +2,7 @@
 category: '2. Strikes - Secondary'
 manual: 'Meyer'
 title: Short Cut / Kurtzhau
+order: 1
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

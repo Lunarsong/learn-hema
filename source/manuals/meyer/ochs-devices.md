@@ -3,6 +3,7 @@ category: '4. Devices / Stücke'
 manual: 'Meyer'
 layout: page
 title: Ox / Ochs
+order: 3
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

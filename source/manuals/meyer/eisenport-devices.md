@@ -3,6 +3,7 @@ category: '4. Devices / Stücke'
 manual: 'Meyer'
 layout: page
 title: Irongate / Eisenport
+order: 7
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

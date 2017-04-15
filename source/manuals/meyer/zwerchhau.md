@@ -2,6 +2,7 @@
 category: '2. Strikes - Master'
 manual: 'Meyer'
 title: Thwart / Zwerchhau
+order: 3
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

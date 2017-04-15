@@ -2,6 +2,7 @@
 category: '2. Strikes - Chief / Principal'
 manual: 'Meyer'
 title: Horizontal Cut / Mittelhau
+order: 3
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

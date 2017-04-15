@@ -2,6 +2,7 @@
 category: '2. Strikes - Chief / Principal'
 manual: 'Meyer'
 title: Wrath Cut / Zornhau
+order: 2
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

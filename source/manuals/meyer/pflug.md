@@ -2,6 +2,7 @@
 category: '1. Guards - Core'
 manual: 'Meyer'
 title: Plow / Pflug
+order: 2
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">

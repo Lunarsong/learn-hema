@@ -3,6 +3,7 @@ category: '3. Handwork'
 manual: 'Meyer'
 layout: page
 title: Hanging / Hengen
+order: 23
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">
