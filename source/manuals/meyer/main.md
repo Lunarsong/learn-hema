@@ -1,5 +1,5 @@
 ---
-title: Joachim Meÿer
+title: Joachim Meÿer - Longsword
 ---
 
 <link rel="import" href="/bower_components/polymer/polymer.html">
