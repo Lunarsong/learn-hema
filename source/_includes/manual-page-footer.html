@@ -1,0 +1,9 @@
+    </div>
+  </template>
+
+  <script>
+    Polymer({
+      is: '{{ page.url | split:'/' | last | remove: '.html' }}-element',
+    });
+  </script>
+</dom-module>
