@@ -1,0 +1,20 @@
+---
+
+---
+{
+  "categories": {
+    {% assign groups = site.pages | where: "manual", "Liechtenauer" | group_by: "category" | sort: "name" %} {% for group in groups %} {% assign items = group.items | sort: "order" %} {% assign category_name = group.name | split: '. ' %}
+    "{{ category_name[1] | remove: ' ' |  remove: '/' }}": {
+      "title": "{{ category_name[1] }}",
+      "members": [{% for item in items %}
+      "{{ item.url | split:'/' | last | remove: '.html' }}"{% if forloop.last == false %},{% endif %}{%endfor%}
+      ]
+    }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  },
+  "pages": {
+    {% for group in groups %} {% assign items = group.items | sort: "order" %} {% assign category_name = group.name | split: '. ' %} {% for item in items %}
+    "{{ item.url | split:'/' | last | remove: '.html' }}": { "title": "{{item.title}}" } {% if forloop.last == false %},{% endif %}{%endfor%}{% if forloop.last == false %},{% endif %}
+    {%endfor%}
+  }
+}
