@@ -1,38 +1,11 @@
 ---
 category: '3. Handwork'
 manual: 'Meyer'
-layout: page
+layout:  manpage
 title: Striking Around / Umbschlagen
 order: 5
 ---
 
-<link rel="import" href="/bower_components/polymer/polymer.html">
-<link rel="import" href="shared-styles.html">
+Transcription:
 
-<dom-module id="{{ page.url | split:'/' | last | remove: '.html' }}-element">
-  <template>
-    <style include="shared-styles">
-      :host {
-        display: block;
-
-        padding: 10px;
-      }
-    </style>
-
-    <div class="card">
-
-      <h1>{{ page.title }}</h1>
-
-
-      <p>Transcription:</p>
-      <blockquote><p>It is called striking around with the sword when, having bound from your right against their left, you go back out of that bind and strike around or flick to the other side.</p></blockquote>
-
-    </div>
-  </template>
-
-  <script>
-    Polymer({
-      is: '{{ page.url | split:'/' | last | remove: '.html' }}-element',
-    });
-  </script>
-</dom-module>
+> It is called striking around with the sword when, having bound from your right against their left, you go back out of that bind and strike around or flick to the other side.
